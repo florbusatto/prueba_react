@@ -7,12 +7,12 @@ export default styled.a`
    color: rgb(255, 255, 255);
    display:block;
    font-size: 3.8em;
+   font-family: 'Source Sans Pro', sans-serif;
    margin: 0 auto;
    margin-left:480px;
    margin-top:120px;
    padding: 0.3em 1em;
    text-align:center;
-   text-decoration: none;
    width:750px;  
    @media screen and (max-width: 1080px)
   {

@@ -6,18 +6,18 @@ export default styled.button`
   border-color: #fff;
   border-color: rgba(255, 255, 255, 0.75);
   border-top: 0;
-  border-radius: 8px;
+  border-radius: 10px;
   color: palevioletred;
   display:inline-block;
   font-size: 1.3em;
-  height:100px;
+  height:90px;
   letter-spacing: 3px;
   line-height: 4em;
   margin:0 auto;
-  margin-left:750px;
+  margin-left:730px;
   margin-top:100px;
   text-align:center;
-  width:350px;
+  width:380px;
   @media screen and (max-width: 1080px)
   {
     padding: 1em 0 3em 0;

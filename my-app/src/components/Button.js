@@ -10,15 +10,16 @@ export default styled.button`
   color: #fff;
   display:inline-block;
   font-size: 1.5em;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight:bold;
   height:90px;
   letter-spacing: 3px;
-  line-height: 4em;
+  line-height: 50px;
   margin:0 auto;
   margin-left:200px;
   padding: 0.25em 1em;
   text-align: center;
-  text-transform: uppercase;
-  width:350px;
+  width:360px;
   @media screen and (max-width: 1080px)
   {
     padding: 5em 0 4em 0;

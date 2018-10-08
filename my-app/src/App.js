@@ -21,7 +21,7 @@ class App extends  Component {
         <Link>No Sidebar</Link>
         <Title>Telephasic is a responsive 
         site template by HTML5 UP</Title>
-        <Subtitle>Designed and built by AJ and released for free under 
+        <Subtitle>Designed and built by AJ. and released for free under 
         the Creative Commons Attribution 3.0 license.</Subtitle>
         <SecondButton>Get this party started</SecondButton>
       </Wrapper>

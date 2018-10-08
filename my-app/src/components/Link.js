@@ -7,6 +7,8 @@ export default styled.a`
    color: rgb(255, 255, 255);
    display:inline;
    font-size: 1.5em;
+   font-family: 'Source Sans Pro', sans-serif;
+   font-weight:lighter;
    margin: 0 auto;
    margin-left:100px;
    margin-top:5px;

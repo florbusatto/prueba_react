@@ -1,14 +1,14 @@
 import styled from "styled-components";
 
 export default styled.div`
-  background-image: -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-  background-image: -webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-  background-image: -ms-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-  background-image: linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+  background: -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+  background: -webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+  background: -ms-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+  background: linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
   background-color: #f08c89;
   border: none;
   box-sizing:border-box;
-  height: 980px;
+  height: 920px;
   margin: 0 auto;	
   padding: 0 auto;  
   width:auto; 
